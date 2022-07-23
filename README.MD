@@ -1,0 +1,1 @@
+This repository is a collection of small projects I've worked on that don't deserve their own repo.
